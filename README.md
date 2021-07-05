@@ -38,6 +38,8 @@ sudo docker version
 ```
 sudo usermod -aG docker $(whoami)
 ```
+Reiniciar a maquina.
+
 ## Docker Hello World!
 
 Execute o comando:
